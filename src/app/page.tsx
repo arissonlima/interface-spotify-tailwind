@@ -42,42 +42,42 @@ export default function Home() {
           <div className="grid grid-cols-3 gap-4 mt-4">
             <a href="#" className="bg-white/10 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 transition-colors">
               <Image src="/guns.png" width={104} height={104} alt="Capa do álbum do Queen" />
-              <strong>Álbum name</strong>
+              <strong>Guns N Roses</strong>
               <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-6 invisible group-hover:visible">
                 <Play />
               </button>
             </a>
             <a href="#" className="bg-white/10 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 transition-colors">
               <Image src="/maneskin.png" width={104} height={104} alt="Capa do álbum do Queen" />
-              <strong>Álbum name</strong>
+              <strong>Maneskin</strong>
               <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-6 invisible group-hover:visible">
                 <Play />
               </button>
             </a>
             <a href="#" className="bg-white/10 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 transition-colors">
               <Image src="/queen.png" width={104} height={104} alt="Capa do álbum do Queen" />
-              <strong>Álbum name</strong>
+              <strong>Queen</strong>
               <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-6 invisible group-hover:visible">
                 <Play />
               </button>
             </a>
             <a href="#" className="bg-white/10 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 transition-colors">
               <Image src="/playlist1.png" width={104} height={104} alt="Capa do álbum do Queen" />
-              <strong>Álbum name</strong>
+              <strong>Um disco qualquer 1</strong>
               <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-6 invisible group-hover:visible">
                 <Play />
               </button>
             </a>
             <a href="#" className="bg-white/10 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 transition-colors">
               <Image src="/playlist2.png" width={104} height={104} alt="Capa do álbum do Queen" />
-              <strong>Álbum name</strong>
+              <strong>Um disco qualquer 2</strong>
               <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-6 invisible group-hover:visible">
                 <Play />
               </button>
             </a>
             <a href="#" className="bg-white/10 group rounded flex items-center gap-4 overflow-hidden hover:bg-white/20 transition-colors">
               <Image src="/redhot.png" width={104} height={104} alt="Capa do álbum do Queen" />
-              <strong>Álbum name</strong>
+              <strong>Red Hot Chilli Pepers</strong>
               <button className="w-12 h-12 flex items-center justify-center pl-1 rounded-full bg-green-400 text-black ml-auto mr-6 invisible group-hover:visible">
                 <Play />
               </button>
@@ -89,28 +89,28 @@ export default function Home() {
           <div className="grid grid-cols-5 gap-4 mt-4">
             <a href="#" className="bg-white/5 p-2 rounded-md flex flex-col gap-2 hover:bg-white/10">
               <Image src="/guns.png" className="w-full" width={120} height={120} alt="Capa do álbum do Queen" />
-              <strong className="font-semibold">Daily 1</strong>
-              <span className="text-sm text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <strong className="font-semibold">Guns</strong>
+              <span className="text-sm text-zinc-500">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</span>
             </a>
             <a href="#" className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10">
               <Image src="/queen.png" className="w-full" width={120} height={120} alt="Capa do álbum do Queen" />
-              <strong className="font-semibold">Daily 1</strong>
-              <span className="text-sm text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <strong className="font-semibold">Queen</strong>
+              <span className="text-sm text-zinc-500">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</span>
             </a>
             <a href="#" className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10">
               <Image src="/maneskin.png" className="w-full" width={120} height={120} alt="Capa do álbum do Queen" />
-              <strong className="font-semibold">Daily 1</strong>
-              <span className="text-sm text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <strong className="font-semibold">Rush!</strong>
+              <span className="text-sm text-zinc-500">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</span>
             </a>
             <a href="#" className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10">
               <Image src="/playlist2.png" className="w-full" width={120} height={120} alt="Capa do álbum do Queen" />
-              <strong className="font-semibold">Daily 1</strong>
-              <span className="text-sm text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <strong className="font-semibold">Um disco qualquer 2</strong>
+              <span className="text-sm text-zinc-500">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</span>
             </a>
             <a href="#" className="bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10">
               <Image src="/playlist1.png" className="w-full" width={120} height={120} alt="Capa do álbum do Queen" />
-              <strong className="font-semibold">Daily 1</strong>
-              <span className="text-sm text-zinc-500">Wallows, COIN, girl in red and more</span>
+              <strong className="font-semibold">Um disco qualquer 1</strong>
+              <span className="text-sm text-zinc-500">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</span>
             </a>
           </div>
         </main>
